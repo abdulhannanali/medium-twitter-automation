@@ -12,9 +12,9 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.2",
-    "dotenv": "^2.0.0",
+    "dotenv": "^4.0.0",
     "express": "^4.14.0",
-    "medium-sdk": "0.0.3",
+    "medium-sdk": "0.0.4",
     "moment": "^2.14.1",
     "morgan": "^1.7.0",
     "pug": "^2.0.0-beta4",
